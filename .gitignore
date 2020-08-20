@@ -1,4 +1,5 @@
 DataFiles/.hidden.txt
+__pycache__
 *.ipynb
 .ipynb_checkpoint
 *.DS_Store
