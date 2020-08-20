@@ -1,0 +1,4 @@
+DataFiles/.hidden.txt
+*.ipynb
+.ipynb_checkpoint
+*.DS_Store
